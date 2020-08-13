@@ -1,0 +1,13 @@
+D:\Codingan\RumahSakit\RumahSakit\bin\Debug\netcoreapp3.1\RumahSakit.exe
+D:\Codingan\RumahSakit\RumahSakit\bin\Debug\netcoreapp3.1\RumahSakit.deps.json
+D:\Codingan\RumahSakit\RumahSakit\bin\Debug\netcoreapp3.1\RumahSakit.runtimeconfig.json
+D:\Codingan\RumahSakit\RumahSakit\bin\Debug\netcoreapp3.1\RumahSakit.runtimeconfig.dev.json
+D:\Codingan\RumahSakit\RumahSakit\bin\Debug\netcoreapp3.1\RumahSakit.dll
+D:\Codingan\RumahSakit\RumahSakit\bin\Debug\netcoreapp3.1\RumahSakit.pdb
+D:\Codingan\RumahSakit\RumahSakit\obj\Debug\netcoreapp3.1\RumahSakit.csprojAssemblyReference.cache
+D:\Codingan\RumahSakit\RumahSakit\obj\Debug\netcoreapp3.1\RumahSakit.AssemblyInfoInputs.cache
+D:\Codingan\RumahSakit\RumahSakit\obj\Debug\netcoreapp3.1\RumahSakit.AssemblyInfo.cs
+D:\Codingan\RumahSakit\RumahSakit\obj\Debug\netcoreapp3.1\RumahSakit.csproj.CoreCompileInputs.cache
+D:\Codingan\RumahSakit\RumahSakit\obj\Debug\netcoreapp3.1\RumahSakit.dll
+D:\Codingan\RumahSakit\RumahSakit\obj\Debug\netcoreapp3.1\RumahSakit.pdb
+D:\Codingan\RumahSakit\RumahSakit\obj\Debug\netcoreapp3.1\RumahSakit.genruntimeconfig.cache
